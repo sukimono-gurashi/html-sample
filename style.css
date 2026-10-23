@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 40px 20px;
+  font-family: sans-serif;
+  color: #333;
+  background: #f5f3ee;
+}
+
+.sample {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px;
+  background: #fff;
+  border-radius: 12px;
+}
